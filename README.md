@@ -9,5 +9,8 @@ numpy
 sklearn 
 scipy
 
+### Census tract SES data
+The dataset we used comes from https://github.com/geomarker-io/dep_index
+
 ### Usage
 Please see KMeans_SES_clustering.py for details.
